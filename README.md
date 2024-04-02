@@ -1,2 +1,2 @@
-# Academind-MERN-Frontend-4.2.24
+# Academind-MERN-Frontend
  
